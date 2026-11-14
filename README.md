@@ -41,9 +41,8 @@
   <tr>
     <td>
       <h3>🍽️ Sazón Latino — Restaurant POS</h3>
-      <p>React + TypeScript + Supabase web app (installable PWA) with admin and waiter roles, a kitchen screen, sales reports with Excel export, and a Node.js middleware that prints kitchen/bar tickets and receipts on Epson thermal printers (ESC/POS).</p>
+      <p>React + TypeScript + Supabase web app (installable PWA) with admin and waiter roles, a kitchen screen, sales reports with Excel export, and a Node.js middleware that prints kitchen/bar tickets and receipts on Epson thermal printers (ESC/POS). <i>Currently in production at a real restaurant.</i></p>
       <p>
-        <a href="https://sazon-latino-five.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-Visit-black?style=for-the-badge&logo=vercel" /></a>
         <a href="https://github.com/ringeledev/sazon-latino"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
