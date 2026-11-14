@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About me
 
-- 🍽️ I built **[Sazón Latino](https://github.com/ringeledev/sazon-latino)**, an order management system (POS) for a restaurant: tables, orders, kitchen view, receipts, reports and thermal printer integration
+- 🍽️ I built **[Sazón Latino](https://ringeledev.github.io/sazon-latino/)**, an order management system (POS) for a restaurant: tables, orders, kitchen view, receipts, reports and thermal printer integration
 - 🛠️ Hands-on experience in **Level 1 & 2 IT support** (hardware, software, networks)
 - 🎓 Bachelor's degree in **Computer Engineering** (INACAP, Chile 🇨🇱)
 - 🤖 I use AI tools (**Claude**, **Lovable**) to design, code, debug and document faster
@@ -43,6 +43,7 @@
       <h3>🍽️ Sazón Latino — Restaurant POS</h3>
       <p>React + TypeScript + Supabase web app (installable PWA) with admin and waiter roles, a kitchen screen, sales reports with Excel export, and a Node.js middleware that prints kitchen/bar tickets and receipts on Epson thermal printers (ESC/POS). <i>Currently in production at a real restaurant.</i></p>
       <p>
+        <a href="https://ringeledev.github.io/sazon-latino/"><img src="https://img.shields.io/badge/Project%20page-Visit-f2a33a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
         <a href="https://github.com/ringeledev/sazon-latino"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
