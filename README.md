@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Passau%2C%20Germany-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20work-success?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Languages-ES%20%C2%B7%20EN%20B1%20%C2%B7%20DE%20A1-orange?style=flat-square&logo=googletranslate&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ringeledev&style=flat-square&color=blueviolet&label=Profile+views" />
   <a href="mailto:ringelematias86@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -51,12 +52,7 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ringeledev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringeledev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+### 📊 GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ringeledev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
